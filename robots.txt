@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://calandryll.github.io/sitemap.xml

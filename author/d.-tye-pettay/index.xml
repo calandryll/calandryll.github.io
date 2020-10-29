@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Tye Pettay | MEL Lab</title>
+    <link>https://calandryll.github.io/author/d.-tye-pettay/</link>
+      <atom:link href="https://calandryll.github.io/author/d.-tye-pettay/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Tye Pettay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://calandryll.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Tye Pettay</title>
+      <link>https://calandryll.github.io/author/d.-tye-pettay/</link>
+    </image>
+    
+    <item>
+      <title>Hydrophysical and Hydrochemical Controls of Cyanobacterial Blooms in Coursey Pond, Delaware (USA)</title>
+      <link>https://calandryll.github.io/publication/andres-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://calandryll.github.io/publication/andres-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critical comparison of molecular methods for detection and enumeration of the harmful algal species, Heterosigma akashiwo, in environmental water samples</title>
+      <link>https://calandryll.github.io/publication/main-2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://calandryll.github.io/publication/main-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the suitability of Durafet-based sensors for pH measurement in dynamic estuarine environments</title>
+      <link>https://calandryll.github.io/publication/gonski-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://calandryll.github.io/publication/gonski-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
