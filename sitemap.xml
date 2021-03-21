@@ -1,225 +1,147 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://calandryll.github.io/tag/habs/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/project/habs/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/project/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/tags/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/project/microbial-source-tracking/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/tag/mst/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/tag/cyanobacteria/</loc>
-    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/tag/harmful-algal-blooms/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/publication-type/2/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/author/a.-scott-andres/</loc>
-    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/authors/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/author/christopher-r.-main/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/author/d.-tye-pettay/</loc>
-    <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/publication/andres-2019/</loc>
-    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/publication_types/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/publication/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://calandryll.github.io/author/william-j.-ullman/</loc>
-    <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://calandryll.github.io/tag/delaware-inland-bays/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://calandryll.github.io/tag/microbial-source-tracking/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication-type/2/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/authors/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/christopher-r.-main/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/</loc>
+    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication/main-2021/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication_types/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/robin-tyler/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/sergio-huerta/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tags/</loc>
+    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tag/habs/</loc>
+    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/project/habs/</loc>
+    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/project/</loc>
+    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/project/microbial-source-tracking/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tag/mst/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tag/cyanobacteria/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tag/harmful-algal-blooms/</loc>
+    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/a.-scott-andres/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/d.-tye-pettay/</loc>
+    <lastmod>2020-10-28T19:31:44-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication/andres-2019/</loc>
+    <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/william-j.-ullman/</loc>
+    <lastmod>2020-10-28T19:31:44-04:00</lastmod>
+  </url><url>
     <loc>https://calandryll.github.io/tag/heterosigma-akashiwo/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/tag/qpcr/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/tag/sandwich-hybridization-assay/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/cameron-doll/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/publication/main-2018/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/dianne-i.-greenfield/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/edward-b.-whereat/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/kathryn-j.-coyne/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/rebecca-mortensen/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/yanfei-wang/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/andrew-joesoef/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/publication/gonski-2017/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/stephen-f.-gonski/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/todd-r.-martz/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/wei-jun-cai/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/tag/vibrio/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/publication/main-2015/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/lauren-r.-salvitti/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/colleen-bianco/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/publication/main-2014/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/publication/doll-2014/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/caitlynn-mitchell/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/author/christopher-r.-main/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://calandryll.github.io/talk/</loc>
   </url>
-  
 </urlset>
