@@ -2,41 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://calandryll.github.io/tag/love-creek-watershed/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication-type/2/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/authors/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/christopher-main/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/deb-p.-jaisi/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/hezhong-yuan/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/hui-li/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/jessica-anton/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication_types/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/author/qiang-li/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/tags/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/publication/li-2021/</loc>
+    <lastmod>2021-07-02T05:39:19-04:00</lastmod>
+  </url><url>
     <loc>https://calandryll.github.io/tag/delaware-inland-bays/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
   </url><url>
     <loc>https://calandryll.github.io/tag/microbial-source-tracking/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
   </url><url>
-    <loc>https://calandryll.github.io/publication-type/2/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url><url>
-    <loc>https://calandryll.github.io/authors/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url><url>
     <loc>https://calandryll.github.io/author/christopher-r.-main/</loc>
     <lastmod>2020-10-28T19:31:45-04:00</lastmod>
   </url><url>
-    <loc>https://calandryll.github.io/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
-  </url><url>
     <loc>https://calandryll.github.io/publication/main-2021/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url><url>
-    <loc>https://calandryll.github.io/publication_types/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
-  </url><url>
-    <loc>https://calandryll.github.io/publication/</loc>
-    <lastmod>2020-10-28T19:31:45-04:00</lastmod>
   </url><url>
     <loc>https://calandryll.github.io/author/robin-tyler/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
   </url><url>
     <loc>https://calandryll.github.io/author/sergio-huerta/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
-  </url><url>
-    <loc>https://calandryll.github.io/tags/</loc>
-    <lastmod>2020-10-28T19:44:09-04:00</lastmod>
   </url><url>
     <loc>https://calandryll.github.io/tag/habs/</loc>
     <lastmod>2020-10-28T19:44:09-04:00</lastmod>
@@ -100,6 +124,12 @@
   </url><url>
     <loc>https://calandryll.github.io/author/yanfei-wang/</loc>
     <lastmod>2020-10-28T19:31:43-04:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://calandryll.github.io/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
     <loc>https://calandryll.github.io/author/andrew-joesoef/</loc>
     <lastmod>2020-10-28T19:31:44-04:00</lastmod>
